@@ -1,0 +1,27 @@
+tmp/slc6_amd64_gcc481/src/HiggsAnalysis/CombinedLimit/bin/combine/combine.o: \
+ src/HiggsAnalysis/CombinedLimit/bin/combine.cpp \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/Combine.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/ProfileLikelihood.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/../interface/LimitAlgo.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/HybridNew.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/BayesianFlatPrior.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/BayesianToyMC.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/MarkovChainMC.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/FeldmanCousins.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/LimitAlgo.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/MaxLikelihoodFit.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/../interface/FitterAlgoBase.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/../interface/../interface/LimitAlgo.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/../interface/../interface/ProfileLikelihood.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/Asymptotic.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/../interface/utils.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/AsymptoticNew.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/GoodnessOfFit.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/../interface/ProfileLikelihood.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/ChannelCompatibilityCheck.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/MultiDimFit.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/CascadeMinimizer.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/../interface/RooMinimizerOpt.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/ProfilingTools.h \
+ src/HiggsAnalysis/CombinedLimit/bin/../interface/GenerateOnly.h
+
